@@ -1,0 +1,101 @@
+question_id,question,answer,cited_chunk_ids,Usage
+q_0001,What was the root cause of the cache corruption?,The root cause of the cache corruption was identified through system logs and infrastructure monitoring.,['doc_0001_chunk_1'],Public
+q_0002,What was the root cause of the cache corruption?,The root cause of the cache corruption was identified through system logs and infrastructure monitoring.,['doc_0002_chunk_1'],Public
+q_0003,What was the root cause of the login failure?,The root cause of the login failure was identified through system logs and infrastructure monitoring.,['doc_0003_chunk_1'],Public
+q_0004,What was the root cause of the CDN outage?,The root cause of the CDN outage was identified through system logs and infrastructure monitoring.,['doc_0004_chunk_1'],Public
+q_0005,What was the root cause of the recommendation engine error?,The root cause of the recommendation engine error was identified through system logs and infrastructure monitoring.,['doc_0005_chunk_1'],Public
+q_0006,What was the root cause of the regional service outage?,The root cause of the regional service outage was identified through system logs and infrastructure monitoring.,['doc_0006_chunk_1'],Public
+q_0007,What was the root cause of the API gateway failure?,The root cause of the API gateway failure was identified through system logs and infrastructure monitoring.,['doc_0007_chunk_1'],Public
+q_0008,What was the root cause of the login failure?,The root cause of the login failure was identified through system logs and infrastructure monitoring.,['doc_0008_chunk_1'],Public
+q_0009,What was the root cause of the streaming latency?,The root cause of the streaming latency was identified through system logs and infrastructure monitoring.,['doc_0009_chunk_1'],Public
+q_0010,What was the root cause of the billing system outage?,The root cause of the billing system outage was identified through system logs and infrastructure monitoring.,['doc_0010_chunk_1'],Public
+q_0011,What was the root cause of the billing system outage?,The root cause of the billing system outage was identified through system logs and infrastructure monitoring.,['doc_0011_chunk_1'],Public
+q_0012,What was the root cause of the authentication failure?,The root cause of the authentication failure was identified through system logs and infrastructure monitoring.,['doc_0012_chunk_1'],Public
+q_0013,What was the root cause of the API gateway failure?,The root cause of the API gateway failure was identified through system logs and infrastructure monitoring.,['doc_0013_chunk_1'],Public
+q_0014,What was the root cause of the authentication failure?,The root cause of the authentication failure was identified through system logs and infrastructure monitoring.,['doc_0014_chunk_1'],Public
+q_0015,What was the root cause of the cache corruption?,The root cause of the cache corruption was identified through system logs and infrastructure monitoring.,['doc_0015_chunk_1'],Public
+q_0016,What was the root cause of the billing system outage?,The root cause of the billing system outage was identified through system logs and infrastructure monitoring.,['doc_0016_chunk_1'],Public
+q_0017,What was the root cause of the recommendation engine error?,The root cause of the recommendation engine error was identified through system logs and infrastructure monitoring.,['doc_0017_chunk_1'],Public
+q_0018,What was the root cause of the authentication failure?,The root cause of the authentication failure was identified through system logs and infrastructure monitoring.,['doc_0018_chunk_1'],Public
+q_0019,What was the root cause of the regional service outage?,The root cause of the regional service outage was identified through system logs and infrastructure monitoring.,['doc_0019_chunk_1'],Public
+q_0020,What was the root cause of the CDN outage?,The root cause of the CDN outage was identified through system logs and infrastructure monitoring.,['doc_0020_chunk_1'],Public
+q_0021,What was the root cause of the streaming latency?,The root cause of the streaming latency was identified through system logs and infrastructure monitoring.,['doc_0021_chunk_1'],Public
+q_0022,What was the root cause of the login failure?,The root cause of the login failure was identified through system logs and infrastructure monitoring.,['doc_0022_chunk_1'],Public
+q_0023,What was the root cause of the API gateway failure?,The root cause of the API gateway failure was identified through system logs and infrastructure monitoring.,['doc_0023_chunk_1'],Public
+q_0024,What was the root cause of the streaming latency?,The root cause of the streaming latency was identified through system logs and infrastructure monitoring.,['doc_0024_chunk_1'],Public
+q_0025,What was the root cause of the recommendation engine error?,The root cause of the recommendation engine error was identified through system logs and infrastructure monitoring.,['doc_0025_chunk_1'],Public
+q_0026,What was the root cause of the recommendation engine error?,The root cause of the recommendation engine error was identified through system logs and infrastructure monitoring.,['doc_0026_chunk_1'],Public
+q_0027,What was the root cause of the login failure?,The root cause of the login failure was identified through system logs and infrastructure monitoring.,['doc_0027_chunk_1'],Public
+q_0028,What was the root cause of the login failure?,The root cause of the login failure was identified through system logs and infrastructure monitoring.,['doc_0028_chunk_1'],Public
+q_0029,What was the root cause of the API gateway failure?,The root cause of the API gateway failure was identified through system logs and infrastructure monitoring.,['doc_0029_chunk_1'],Public
+q_0030,What was the root cause of the API gateway failure?,The root cause of the API gateway failure was identified through system logs and infrastructure monitoring.,['doc_0030_chunk_1'],Public
+q_0031,What was the root cause of the cache corruption?,The root cause of the cache corruption was identified through system logs and infrastructure monitoring.,['doc_0031_chunk_1'],Public
+q_0032,What was the root cause of the authentication failure?,The root cause of the authentication failure was identified through system logs and infrastructure monitoring.,['doc_0032_chunk_1'],Public
+q_0033,What was the root cause of the security incident?,The root cause of the security incident was identified through system logs and infrastructure monitoring.,['doc_0033_chunk_1'],Public
+q_0034,What was the root cause of the CDN outage?,The root cause of the CDN outage was identified through system logs and infrastructure monitoring.,['doc_0034_chunk_1'],Public
+q_0035,What was the root cause of the API gateway failure?,The root cause of the API gateway failure was identified through system logs and infrastructure monitoring.,['doc_0035_chunk_1'],Public
+q_0036,What was the root cause of the recommendation engine error?,The root cause of the recommendation engine error was identified through system logs and infrastructure monitoring.,['doc_0036_chunk_1'],Public
+q_0037,What was the root cause of the CDN outage?,The root cause of the CDN outage was identified through system logs and infrastructure monitoring.,['doc_0037_chunk_1'],Public
+q_0038,What was the root cause of the streaming latency?,The root cause of the streaming latency was identified through system logs and infrastructure monitoring.,['doc_0038_chunk_1'],Public
+q_0039,What was the root cause of the streaming latency?,The root cause of the streaming latency was identified through system logs and infrastructure monitoring.,['doc_0039_chunk_1'],Public
+q_0040,What was the root cause of the billing system outage?,The root cause of the billing system outage was identified through system logs and infrastructure monitoring.,['doc_0040_chunk_1'],Public
+q_0041,What was the root cause of the streaming latency?,The root cause of the streaming latency was identified through system logs and infrastructure monitoring.,['doc_0041_chunk_1'],Public
+q_0042,What was the root cause of the CDN outage?,The root cause of the CDN outage was identified through system logs and infrastructure monitoring.,['doc_0042_chunk_1'],Public
+q_0043,What was the root cause of the security incident?,The root cause of the security incident was identified through system logs and infrastructure monitoring.,['doc_0043_chunk_1'],Public
+q_0044,What was the root cause of the CDN outage?,The root cause of the CDN outage was identified through system logs and infrastructure monitoring.,['doc_0044_chunk_1'],Public
+q_0045,What was the root cause of the recommendation engine error?,The root cause of the recommendation engine error was identified through system logs and infrastructure monitoring.,['doc_0045_chunk_1'],Public
+q_0046,What was the root cause of the API gateway failure?,The root cause of the API gateway failure was identified through system logs and infrastructure monitoring.,['doc_0046_chunk_1'],Public
+q_0047,What was the root cause of the login failure?,The root cause of the login failure was identified through system logs and infrastructure monitoring.,['doc_0047_chunk_1'],Public
+q_0048,What was the root cause of the billing system outage?,The root cause of the billing system outage was identified through system logs and infrastructure monitoring.,['doc_0048_chunk_1'],Public
+q_0049,What was the root cause of the streaming latency?,The root cause of the streaming latency was identified through system logs and infrastructure monitoring.,['doc_0049_chunk_1'],Public
+q_0050,What was the root cause of the recommendation engine error?,The root cause of the recommendation engine error was identified through system logs and infrastructure monitoring.,['doc_0050_chunk_1'],Public
+q_0051,What was the root cause of the login failure?,The root cause of the login failure was identified through system logs and infrastructure monitoring.,['doc_0051_chunk_1'],Public
+q_0052,What was the root cause of the recommendation engine error?,The root cause of the recommendation engine error was identified through system logs and infrastructure monitoring.,['doc_0052_chunk_1'],Public
+q_0053,What was the root cause of the streaming latency?,The root cause of the streaming latency was identified through system logs and infrastructure monitoring.,['doc_0053_chunk_1'],Public
+q_0054,What was the root cause of the login failure?,The root cause of the login failure was identified through system logs and infrastructure monitoring.,['doc_0054_chunk_1'],Public
+q_0055,What was the root cause of the billing system outage?,The root cause of the billing system outage was identified through system logs and infrastructure monitoring.,['doc_0055_chunk_1'],Public
+q_0056,What was the root cause of the recommendation engine error?,The root cause of the recommendation engine error was identified through system logs and infrastructure monitoring.,['doc_0056_chunk_1'],Public
+q_0057,What was the root cause of the regional service outage?,The root cause of the regional service outage was identified through system logs and infrastructure monitoring.,['doc_0057_chunk_1'],Public
+q_0058,What was the root cause of the security incident?,The root cause of the security incident was identified through system logs and infrastructure monitoring.,['doc_0058_chunk_1'],Public
+q_0059,What was the root cause of the security incident?,The root cause of the security incident was identified through system logs and infrastructure monitoring.,['doc_0059_chunk_1'],Public
+q_0060,What was the root cause of the API gateway failure?,The root cause of the API gateway failure was identified through system logs and infrastructure monitoring.,['doc_0060_chunk_1'],Public
+q_0061,What was the root cause of the cache corruption?,The root cause of the cache corruption was identified through system logs and infrastructure monitoring.,['doc_0061_chunk_1'],Public
+q_0062,What was the root cause of the recommendation engine error?,The root cause of the recommendation engine error was identified through system logs and infrastructure monitoring.,['doc_0062_chunk_1'],Public
+q_0063,What was the root cause of the security incident?,The root cause of the security incident was identified through system logs and infrastructure monitoring.,['doc_0063_chunk_1'],Public
+q_0064,What was the root cause of the login failure?,The root cause of the login failure was identified through system logs and infrastructure monitoring.,['doc_0064_chunk_1'],Public
+q_0065,What was the root cause of the regional service outage?,The root cause of the regional service outage was identified through system logs and infrastructure monitoring.,['doc_0065_chunk_1'],Public
+q_0066,What was the root cause of the API gateway failure?,The root cause of the API gateway failure was identified through system logs and infrastructure monitoring.,['doc_0066_chunk_1'],Public
+q_0067,What was the root cause of the login failure?,The root cause of the login failure was identified through system logs and infrastructure monitoring.,['doc_0067_chunk_1'],Public
+q_0068,What was the root cause of the regional service outage?,The root cause of the regional service outage was identified through system logs and infrastructure monitoring.,['doc_0068_chunk_1'],Public
+q_0069,What was the root cause of the login failure?,The root cause of the login failure was identified through system logs and infrastructure monitoring.,['doc_0069_chunk_1'],Public
+q_0070,What was the root cause of the CDN outage?,The root cause of the CDN outage was identified through system logs and infrastructure monitoring.,['doc_0070_chunk_1'],Public
+q_0071,What was the root cause of the recommendation engine error?,The root cause of the recommendation engine error was identified through system logs and infrastructure monitoring.,['doc_0071_chunk_1'],Private
+q_0072,What was the root cause of the recommendation engine error?,The root cause of the recommendation engine error was identified through system logs and infrastructure monitoring.,['doc_0072_chunk_1'],Private
+q_0073,What was the root cause of the billing system outage?,The root cause of the billing system outage was identified through system logs and infrastructure monitoring.,['doc_0073_chunk_1'],Private
+q_0074,What was the root cause of the billing system outage?,The root cause of the billing system outage was identified through system logs and infrastructure monitoring.,['doc_0074_chunk_1'],Private
+q_0075,What was the root cause of the recommendation engine error?,The root cause of the recommendation engine error was identified through system logs and infrastructure monitoring.,['doc_0075_chunk_1'],Private
+q_0076,What was the root cause of the login failure?,The root cause of the login failure was identified through system logs and infrastructure monitoring.,['doc_0076_chunk_1'],Private
+q_0077,What was the root cause of the authentication failure?,The root cause of the authentication failure was identified through system logs and infrastructure monitoring.,['doc_0077_chunk_1'],Private
+q_0078,What was the root cause of the API gateway failure?,The root cause of the API gateway failure was identified through system logs and infrastructure monitoring.,['doc_0078_chunk_1'],Private
+q_0079,What was the root cause of the API gateway failure?,The root cause of the API gateway failure was identified through system logs and infrastructure monitoring.,['doc_0079_chunk_1'],Private
+q_0080,What was the root cause of the cache corruption?,The root cause of the cache corruption was identified through system logs and infrastructure monitoring.,['doc_0080_chunk_1'],Private
+q_0081,What was the root cause of the authentication failure?,The root cause of the authentication failure was identified through system logs and infrastructure monitoring.,['doc_0081_chunk_1'],Private
+q_0082,What was the root cause of the cache corruption?,The root cause of the cache corruption was identified through system logs and infrastructure monitoring.,['doc_0082_chunk_1'],Private
+q_0083,What was the root cause of the security incident?,The root cause of the security incident was identified through system logs and infrastructure monitoring.,['doc_0083_chunk_1'],Private
+q_0084,What was the root cause of the API gateway failure?,The root cause of the API gateway failure was identified through system logs and infrastructure monitoring.,['doc_0084_chunk_1'],Private
+q_0085,What was the root cause of the regional service outage?,The root cause of the regional service outage was identified through system logs and infrastructure monitoring.,['doc_0085_chunk_1'],Private
+q_0086,What was the root cause of the API gateway failure?,The root cause of the API gateway failure was identified through system logs and infrastructure monitoring.,['doc_0086_chunk_1'],Private
+q_0087,What was the root cause of the login failure?,The root cause of the login failure was identified through system logs and infrastructure monitoring.,['doc_0087_chunk_1'],Private
+q_0088,What was the root cause of the streaming latency?,The root cause of the streaming latency was identified through system logs and infrastructure monitoring.,['doc_0088_chunk_1'],Private
+q_0089,What was the root cause of the CDN outage?,The root cause of the CDN outage was identified through system logs and infrastructure monitoring.,['doc_0089_chunk_1'],Private
+q_0090,What was the root cause of the login failure?,The root cause of the login failure was identified through system logs and infrastructure monitoring.,['doc_0090_chunk_1'],Private
+q_0091,What was the root cause of the API gateway failure?,The root cause of the API gateway failure was identified through system logs and infrastructure monitoring.,['doc_0091_chunk_1'],Private
+q_0092,What was the root cause of the security incident?,The root cause of the security incident was identified through system logs and infrastructure monitoring.,['doc_0092_chunk_1'],Private
+q_0093,What was the root cause of the authentication failure?,The root cause of the authentication failure was identified through system logs and infrastructure monitoring.,['doc_0093_chunk_1'],Private
+q_0094,What was the root cause of the CDN outage?,The root cause of the CDN outage was identified through system logs and infrastructure monitoring.,['doc_0094_chunk_1'],Private
+q_0095,What was the root cause of the regional service outage?,The root cause of the regional service outage was identified through system logs and infrastructure monitoring.,['doc_0095_chunk_1'],Private
+q_0096,What was the root cause of the streaming latency?,The root cause of the streaming latency was identified through system logs and infrastructure monitoring.,['doc_0096_chunk_1'],Private
+q_0097,What was the root cause of the cache corruption?,The root cause of the cache corruption was identified through system logs and infrastructure monitoring.,['doc_0097_chunk_1'],Private
+q_0098,What was the root cause of the regional service outage?,The root cause of the regional service outage was identified through system logs and infrastructure monitoring.,['doc_0098_chunk_1'],Private
+q_0099,What was the root cause of the regional service outage?,The root cause of the regional service outage was identified through system logs and infrastructure monitoring.,['doc_0099_chunk_1'],Private
+q_0100,What was the root cause of the streaming latency?,The root cause of the streaming latency was identified through system logs and infrastructure monitoring.,['doc_0100_chunk_1'],Private

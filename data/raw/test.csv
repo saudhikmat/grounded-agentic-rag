@@ -1,0 +1,801 @@
+question_id,question
+q_2201,Combine evidence from 'APAC payment_failure incident report (2025-02-10)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2202,"Based on the knowledge base, summarize the key point from: Architecture note: Playback API / Auth / Search / Recommendations."
+q_2203,Answer using evidence. What is the correct key detail from 'EU latency_spike incident report (2025-05-11)' (ignore unrelated notes)?
+q_2204,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2205,Combine evidence from 'EU payment_failure incident report (2024-05-21)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2206,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2207,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2208,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2209,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2210,"Based on the knowledge base, summarize the key point from: Architecture note: Recommendations / Playback API / Auth / Search."
+q_2211,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2212,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2213,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2214,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2215,Combine evidence from 'NA cdn_issue incident report (2024-01-17)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2216,Combine evidence from 'LATAM payment_failure incident report (2025-08-23)' and 'Architecture note: Billing / Observability / Auth / Recommendations'. What is the recommended mitigation approach?
+q_2217,"Based on the knowledge base, summarize the key point from: LATAM suspicious_activity incident report (2024-03-17)."
+q_2218,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2219,"Based on the knowledge base, summarize the key point from: Architecture note: Playback API / Billing / Data Pipeline / Auth."
+q_2220,Answer using evidence. What is the correct key detail from 'NA playback_error incident report (2024-03-14)' (ignore unrelated notes)?
+q_2221,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2222,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2223,Combine evidence from 'APAC data_pipeline_break incident report (2025-06-09)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2224,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2225,"Based on the knowledge base, summarize the key point from: EU data_pipeline_break incident report (2026-12-06)."
+q_2226,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2227,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2228,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2229,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2230,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2231,Answer using evidence. What is the correct key detail from 'NA playback_error incident report (2026-11-29)' (ignore unrelated notes)?
+q_2232,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2233,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2234,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2235,"Based on the knowledge base, summarize the key point from: EU auth_failure incident report (2024-08-15)."
+q_2236,Combine evidence from 'APAC cdn_issue incident report (2025-10-21)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2237,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2238,Combine evidence from 'LATAM data_pipeline_break incident report (2024-05-21)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2239,Combine evidence from 'EU suspicious_activity incident report (2026-08-09)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2240,"Based on the knowledge base, summarize the key point from: Architecture note: Recommendations / Data Pipeline / Billing / Observability."
+q_2241,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2242,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2243,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2244,Combine evidence from 'LATAM data_pipeline_break incident report (2026-03-21)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2245,Combine evidence from 'APAC payment_failure incident report (2026-07-14)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2246,"Based on the knowledge base, summarize the key point from: EU data_pipeline_break incident report (2026-06-28)."
+q_2247,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2248,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2249,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2250,Combine evidence from 'LATAM playback_error incident report (2026-03-01)' and 'Architecture note: Data Pipeline / Search / Observability / Billing'. What is the recommended mitigation approach?
+q_2251,"Based on the knowledge base, summarize the key point from: Architecture note: Playback API / Observability / Search / Recommendations."
+q_2252,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2253,Combine evidence from 'APAC payment_failure incident report (2026-11-05)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2254,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2255,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2256,Combine evidence from 'NA auth_failure incident report (2025-03-16)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2257,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2258,"Based on the knowledge base, summarize the key point from: APAC cdn_issue incident report (2025-09-22)."
+q_2259,"Based on the knowledge base, summarize the key point from: NA suspicious_activity incident report (2024-01-14)."
+q_2260,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2261,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2262,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2263,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2264,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2265,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2266,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2267,"Based on the knowledge base, summarize the key point from: Architecture note: Auth / Recommendations / CDN / Playback API."
+q_2268,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2269,"Based on the knowledge base, summarize the key point from: Architecture note: Data Pipeline / CDN / Search / Recommendations."
+q_2270,Combine evidence from 'APAC playback_error incident report (2025-11-26)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2271,Answer using evidence. What is the correct key detail from 'EU payment_failure incident report (2025-09-04)' (ignore unrelated notes)?
+q_2272,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2273,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2274,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2275,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2276,"Based on the knowledge base, summarize the key point from: Architecture note: Search / CDN / Playback API / Billing."
+q_2277,Answer using evidence. What is the correct key detail from 'LATAM cdn_issue incident report (2025-08-06)' (ignore unrelated notes)?
+q_2278,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2279,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2280,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2281,Combine evidence from 'LATAM suspicious_activity incident report (2024-03-17)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2282,"Based on the knowledge base, summarize the key point from: Architecture note: Observability / Playback API / Data Pipeline / Search."
+q_2283,Combine evidence from 'EU data_pipeline_break incident report (2024-11-14)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2284,"Based on the knowledge base, summarize the key point from: APAC payment_failure incident report (2024-09-22)."
+q_2285,"Based on the knowledge base, summarize the key point from: Architecture note: CDN / Playback API / Recommendations / Observability."
+q_2286,Combine evidence from 'EU suspicious_activity incident report (2026-08-09)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2287,Combine evidence from 'LATAM playback_error incident report (2026-10-30)' and 'Architecture note: Billing / Observability / Auth / Recommendations'. What is the recommended mitigation approach?
+q_2288,Combine evidence from 'NA payment_failure incident report (2025-08-10)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2289,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2290,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2291,Combine evidence from 'LATAM suspicious_activity incident report (2024-03-17)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2292,Combine evidence from 'APAC data_pipeline_break incident report (2024-11-07)' and 'Architecture note: Data Pipeline / Recommendations / Search / Observability'. What is the recommended mitigation approach?
+q_2293,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2294,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2295,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2296,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2297,Combine evidence from 'LATAM suspicious_activity incident report (2024-09-12)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2298,"Based on the knowledge base, summarize the key point from: Architecture note: Playback API / Billing / Search / Auth."
+q_2299,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2300,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2301,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2302,"Based on the knowledge base, summarize the key point from: NA cdn_issue incident report (2026-01-04)."
+q_2303,"Based on the knowledge base, summarize the key point from: EU cdn_issue incident report (2025-08-21)."
+q_2304,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2305,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2306,Combine evidence from 'APAC payment_failure incident report (2024-06-02)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2307,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2308,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2309,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2310,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2311,Combine evidence from 'NA data_pipeline_break incident report (2026-09-03)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2312,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2313,Combine evidence from 'EU suspicious_activity incident report (2024-10-17)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2314,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2315,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2316,Combine evidence from 'APAC payment_failure incident report (2024-09-22)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2317,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2318,Answer using evidence. What is the correct key detail from 'APAC payment_failure incident report (2024-09-22)' (ignore unrelated notes)?
+q_2319,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2320,"Based on the knowledge base, summarize the key point from: Architecture note: CDN / Auth / Playback API / Billing."
+q_2321,Combine evidence from 'EU latency_spike incident report (2024-03-09)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2322,Combine evidence from 'EU playback_error incident report (2026-03-26)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2323,Combine evidence from 'LATAM payment_failure incident report (2026-05-27)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2324,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2325,"Based on the knowledge base, summarize the key point from: NA playback_error incident report (2026-11-29)."
+q_2326,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2327,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2328,"Based on the knowledge base, summarize the key point from: Architecture note: CDN / Recommendations / Data Pipeline / Search."
+q_2329,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2330,"Based on the knowledge base, summarize the key point from: Architecture note: Data Pipeline / CDN / Billing / Observability."
+q_2331,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2332,Combine evidence from 'APAC payment_failure incident report (2024-09-22)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2333,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2334,Combine evidence from 'NA data_pipeline_break incident report (2026-05-09)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2335,"Based on the knowledge base, summarize the key point from: EU suspicious_activity incident report (2026-08-09)."
+q_2336,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2337,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2338,"Based on the knowledge base, summarize the key point from: Architecture note: CDN / Auth / Search / Billing."
+q_2339,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2340,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2341,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2342,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2343,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2344,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2345,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2346,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2347,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2348,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2349,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2350,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2351,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2352,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2353,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2354,Combine evidence from 'NA suspicious_activity incident report (2024-01-14)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2355,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2356,Answer using evidence. What is the correct key detail from 'APAC data_pipeline_break incident report (2024-08-30)' (ignore unrelated notes)?
+q_2357,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2358,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2359,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2360,Combine evidence from 'APAC payment_failure incident report (2026-09-07)' and 'Architecture note: Recommendations / Observability / CDN / Billing'. What is the recommended mitigation approach?
+q_2361,Combine evidence from 'NA latency_spike incident report (2026-04-28)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2362,Combine evidence from 'EU latency_spike incident report (2025-03-22)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2363,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2364,"Based on the knowledge base, summarize the key point from: Architecture note: Data Pipeline / Billing / Playback API / CDN."
+q_2365,Combine evidence from 'EU cdn_issue incident report (2025-07-13)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2366,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2367,Combine evidence from 'NA cdn_issue incident report (2025-09-19)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2368,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2369,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2370,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2371,Combine evidence from 'LATAM data_pipeline_break incident report (2026-03-21)' and 'Architecture note: CDN / Search / Playback API / Observability'. What is the recommended mitigation approach?
+q_2372,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2373,Combine evidence from 'APAC data_pipeline_break incident report (2024-08-30)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2374,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2375,Combine evidence from 'APAC payment_failure incident report (2024-09-22)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2376,"Based on the knowledge base, summarize the key point from: NA playback_error incident report (2026-05-03)."
+q_2377,Combine evidence from 'APAC cdn_issue incident report (2025-03-06)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2378,"Based on the knowledge base, summarize the key point from: EU playback_error incident report (2025-05-07)."
+q_2379,"Based on the knowledge base, summarize the key point from: Architecture note: Data Pipeline / CDN / Billing / Observability."
+q_2380,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2381,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2382,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2383,Combine evidence from 'APAC latency_spike incident report (2024-03-04)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2384,Combine evidence from 'LATAM cdn_issue incident report (2026-10-14)' and 'Architecture note: Auth / CDN / Playback API / Recommendations'. What is the recommended mitigation approach?
+q_2385,"Based on the knowledge base, summarize the key point from: APAC cdn_issue incident report (2025-10-21)."
+q_2386,"Based on the knowledge base, summarize the key point from: LATAM playback_error incident report (2026-10-30)."
+q_2387,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2388,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2389,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2390,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2391,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2392,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2393,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2394,"Based on the knowledge base, summarize the key point from: LATAM cdn_issue incident report (2026-10-14)."
+q_2395,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2396,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2397,Answer using evidence. What is the correct key detail from 'APAC auth_failure incident report (2025-01-20)' (ignore unrelated notes)?
+q_2398,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2399,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2400,Combine evidence from 'NA data_pipeline_break incident report (2026-06-07)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2401,Combine evidence from 'APAC playback_error incident report (2025-11-26)' and 'Architecture note: Observability / Search / Playback API / Data Pipeline'. What is the recommended mitigation approach?
+q_2402,"Based on the knowledge base, summarize the key point from: NA suspicious_activity incident report (2024-06-15)."
+q_2403,Combine evidence from 'NA suspicious_activity incident report (2024-01-14)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2404,"Based on the knowledge base, summarize the key point from: Architecture note: Billing / Auth / Playback API / CDN."
+q_2405,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2406,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2407,Combine evidence from 'LATAM cdn_issue incident report (2026-09-10)' and 'Architecture note: Search / Billing / Auth / Playback API'. What is the recommended mitigation approach?
+q_2408,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2409,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2410,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2411,Combine evidence from 'EU payment_failure incident report (2025-09-04)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2412,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2413,"Based on the knowledge base, summarize the key point from: Architecture note: Auth / CDN / Playback API / Recommendations."
+q_2414,Combine evidence from 'APAC suspicious_activity incident report (2025-05-28)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2415,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2416,"Based on the knowledge base, summarize the key point from: Architecture note: CDN / Auth / Search / Billing."
+q_2417,Combine evidence from 'APAC auth_failure incident report (2026-09-07)' and 'Architecture note: Search / Billing / Auth / Playback API'. What is the recommended mitigation approach?
+q_2418,"Based on the knowledge base, summarize the key point from: Architecture note: Playback API / Observability / CDN / Recommendations."
+q_2419,Combine evidence from 'EU data_pipeline_break incident report (2025-06-30)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2420,"Based on the knowledge base, summarize the key point from: Architecture note: Data Pipeline / Observability / Playback API / CDN."
+q_2421,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2422,Answer using evidence. What is the correct key detail from 'APAC latency_spike incident report (2026-01-12)' (ignore unrelated notes)?
+q_2423,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2424,"Based on the knowledge base, summarize the key point from: Architecture note: CDN / Search / Data Pipeline / Recommendations."
+q_2425,Answer using evidence. What is the correct key detail from 'EU playback_error incident report (2025-05-07)' (ignore unrelated notes)?
+q_2426,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2427,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2428,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2429,Combine evidence from 'LATAM playback_error incident report (2025-08-14)' and 'Architecture note: Playback API / CDN / Recommendations / Observability'. What is the recommended mitigation approach?
+q_2430,Combine evidence from 'LATAM data_pipeline_break incident report (2024-05-21)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2431,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2432,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2433,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2434,Answer using evidence. What is the correct key detail from 'NA latency_spike incident report (2024-03-23)' (ignore unrelated notes)?
+q_2435,Combine evidence from 'NA auth_failure incident report (2024-10-08)' and 'Architecture note: Billing / Playback API / Observability / Auth'. What is the recommended mitigation approach?
+q_2436,Combine evidence from 'APAC payment_failure incident report (2025-02-10)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2437,"Based on the knowledge base, summarize the key point from: EU payment_failure incident report (2025-10-15)."
+q_2438,Combine evidence from 'EU suspicious_activity incident report (2026-08-09)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2439,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2440,Answer using evidence. What is the correct key detail from 'NA payment_failure incident report (2024-11-27)' (ignore unrelated notes)?
+q_2441,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2442,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2443,Combine evidence from 'NA suspicious_activity incident report (2026-11-26)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2444,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2445,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2446,"Based on the knowledge base, summarize the key point from: APAC auth_failure incident report (2025-10-31)."
+q_2447,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2448,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2449,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2450,Combine evidence from 'APAC suspicious_activity incident report (2026-03-31)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2451,Answer using evidence. What is the correct key detail from 'LATAM suspicious_activity incident report (2026-09-01)' (ignore unrelated notes)?
+q_2452,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2453,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2454,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2455,Combine evidence from 'NA data_pipeline_break incident report (2026-09-03)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2456,"Based on the knowledge base, summarize the key point from: Architecture note: Auth / CDN / Billing / Data Pipeline."
+q_2457,Combine evidence from 'EU payment_failure incident report (2026-06-20)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2458,Combine evidence from 'APAC auth_failure incident report (2025-11-06)' and 'Architecture note: Playback API / Observability / Auth / Data Pipeline'. What is the recommended mitigation approach?
+q_2459,"Based on the knowledge base, summarize the key point from: Architecture note: Playback API / Observability / Data Pipeline / CDN."
+q_2460,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2461,"Based on the knowledge base, summarize the key point from: Architecture note: Auth / CDN / Playback API / Recommendations."
+q_2462,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2463,Answer using evidence. What is the correct key detail from 'EU data_pipeline_break incident report (2026-05-05)' (ignore unrelated notes)?
+q_2464,Combine evidence from 'LATAM suspicious_activity incident report (2024-09-12)' and 'Architecture note: Recommendations / Billing / Search / Auth'. What is the recommended mitigation approach?
+q_2465,Combine evidence from 'EU cdn_issue incident report (2025-08-21)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2466,Combine evidence from 'NA cdn_issue incident report (2024-07-03)' and 'Architecture note: Auth / Recommendations / Search / Playback API'. What is the recommended mitigation approach?
+q_2467,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2468,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2469,Combine evidence from 'LATAM playback_error incident report (2024-08-28)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2470,Combine evidence from 'NA latency_spike incident report (2024-07-04)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2471,Combine evidence from 'NA data_pipeline_break incident report (2024-01-08)' and 'Architecture note: Auth / Observability / Billing / Search'. What is the recommended mitigation approach?
+q_2472,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2473,"Based on the knowledge base, summarize the key point from: Architecture note: Observability / CDN / Data Pipeline / Auth."
+q_2474,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2475,Combine evidence from 'EU suspicious_activity incident report (2024-10-17)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2476,Combine evidence from 'APAC suspicious_activity incident report (2025-05-28)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2477,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2478,Combine evidence from 'APAC latency_spike incident report (2026-01-12)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2479,"Based on the knowledge base, summarize the key point from: Architecture note: CDN / Observability / Playback API / Billing."
+q_2480,Combine evidence from 'LATAM cdn_issue incident report (2024-07-06)' and 'Architecture note: Billing / Recommendations / Auth / Search'. What is the recommended mitigation approach?
+q_2481,"Based on the knowledge base, summarize the key point from: NA suspicious_activity incident report (2024-06-15)."
+q_2482,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2483,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2484,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2485,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2486,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2487,"Based on the knowledge base, summarize the key point from: APAC auth_failure incident report (2025-10-31)."
+q_2488,Combine evidence from 'EU data_pipeline_break incident report (2024-01-04)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2489,Combine evidence from 'NA suspicious_activity incident report (2024-05-19)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2490,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2491,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2492,Combine evidence from 'EU data_pipeline_break incident report (2026-12-06)' and 'Architecture note: Playback API / Recommendations / Observability / Search'. What is the recommended mitigation approach?
+q_2493,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2494,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2495,Combine evidence from 'NA data_pipeline_break incident report (2026-09-03)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2496,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2497,Answer using evidence. What is the correct key detail from 'NA data_pipeline_break incident report (2026-05-09)' (ignore unrelated notes)?
+q_2498,"Based on the knowledge base, summarize the key point from: EU latency_spike incident report (2025-03-22)."
+q_2499,Answer using evidence. What is the correct key detail from 'NA playback_error incident report (2024-03-14)' (ignore unrelated notes)?
+q_2500,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2501,"Based on the knowledge base, summarize the key point from: LATAM suspicious_activity incident report (2026-02-03)."
+q_2502,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2503,Combine evidence from 'EU cdn_issue incident report (2024-05-25)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2504,"Based on the knowledge base, summarize the key point from: Architecture note: Observability / Playback API / Data Pipeline / Search."
+q_2505,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2506,Answer using evidence. What is the correct key detail from 'APAC cdn_issue incident report (2025-03-27)' (ignore unrelated notes)?
+q_2507,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2508,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2509,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2510,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2511,"Based on the knowledge base, summarize the key point from: Architecture note: Search / Billing / Auth / Playback API."
+q_2512,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2513,"Based on the knowledge base, summarize the key point from: Architecture note: Data Pipeline / CDN / Search / Recommendations."
+q_2514,Combine evidence from 'EU payment_failure incident report (2026-06-20)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2515,Combine evidence from 'APAC cdn_issue incident report (2025-09-22)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2516,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2517,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2518,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2519,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2520,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2521,"Based on the knowledge base, summarize the key point from: Architecture note: Recommendations / Data Pipeline / Billing / Observability."
+q_2522,"Based on the knowledge base, summarize the key point from: Architecture note: CDN / Playback API / Recommendations / Observability."
+q_2523,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2524,Combine evidence from 'LATAM playback_error incident report (2026-03-01)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2525,Combine evidence from 'APAC data_pipeline_break incident report (2026-07-03)' and 'Architecture note: Billing / Observability / Recommendations / Playback API'. What is the recommended mitigation approach?
+q_2526,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2527,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2528,Combine evidence from 'LATAM suspicious_activity incident report (2026-02-03)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2529,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2530,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2531,Combine evidence from 'APAC data_pipeline_break incident report (2024-08-24)' and 'Architecture note: Search / Observability / Playback API / Data Pipeline'. What is the recommended mitigation approach?
+q_2532,"Based on the knowledge base, summarize the key point from: Architecture note: Playback API / Search / Data Pipeline / Recommendations."
+q_2533,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2534,Answer using evidence. What is the correct key detail from 'EU auth_failure incident report (2025-02-22)' (ignore unrelated notes)?
+q_2535,Combine evidence from 'APAC suspicious_activity incident report (2025-05-28)' and 'Architecture note: Data Pipeline / Recommendations / Search / Billing'. What is the recommended mitigation approach?
+q_2536,Answer using evidence. What is the correct key detail from 'LATAM suspicious_activity incident report (2024-09-12)' (ignore unrelated notes)?
+q_2537,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2538,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2539,"Based on the knowledge base, summarize the key point from: LATAM suspicious_activity incident report (2024-09-12)."
+q_2540,"Based on the knowledge base, summarize the key point from: Architecture note: Search / CDN / Playback API / Billing."
+q_2541,Answer using evidence. What is the correct key detail from 'EU playback_error incident report (2025-05-07)' (ignore unrelated notes)?
+q_2542,Combine evidence from 'APAC payment_failure incident report (2025-08-05)' and 'Architecture note: Data Pipeline / CDN / Recommendations / Observability'. What is the recommended mitigation approach?
+q_2543,"Based on the knowledge base, summarize the key point from: EU payment_failure incident report (2024-04-30)."
+q_2544,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2545,Answer using evidence. What is the correct key detail from 'EU suspicious_activity incident report (2024-10-17)' (ignore unrelated notes)?
+q_2546,Combine evidence from 'APAC data_pipeline_break incident report (2024-11-07)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2547,"Based on the knowledge base, summarize the key point from: EU payment_failure incident report (2026-06-20)."
+q_2548,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2549,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2550,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2551,Combine evidence from 'APAC data_pipeline_break incident report (2024-11-07)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2552,"Based on the knowledge base, summarize the key point from: NA payment_failure incident report (2024-11-27)."
+q_2553,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2554,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2555,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2556,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2557,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2558,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2559,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2560,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2561,Combine evidence from 'APAC payment_failure incident report (2024-08-05)' and 'Architecture note: Data Pipeline / Search / Observability / Billing'. What is the recommended mitigation approach?
+q_2562,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2563,"Based on the knowledge base, summarize the key point from: Architecture note: Data Pipeline / Recommendations / Search / Billing."
+q_2564,Combine evidence from 'EU auth_failure incident report (2025-02-22)' and 'Architecture note: Observability / Search / CDN / Recommendations'. What is the recommended mitigation approach?
+q_2565,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2566,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2567,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2568,Combine evidence from 'EU payment_failure incident report (2026-06-20)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2569,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2570,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2571,Combine evidence from 'NA data_pipeline_break incident report (2026-09-03)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2572,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2573,Combine evidence from 'LATAM data_pipeline_break incident report (2024-05-21)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2574,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2575,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2576,Combine evidence from 'EU cdn_issue incident report (2024-05-25)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2577,"Based on the knowledge base, summarize the key point from: Architecture note: Billing / Search / CDN / Observability."
+q_2578,Combine evidence from 'EU latency_spike incident report (2025-03-22)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2579,Combine evidence from 'EU playback_error incident report (2025-05-07)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2580,Combine evidence from 'EU playback_error incident report (2025-05-07)' and 'Architecture note: Search / Observability / CDN / Auth'. What is the recommended mitigation approach?
+q_2581,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2582,Combine evidence from 'EU cdn_issue incident report (2026-06-16)' and 'Architecture note: Playback API / Observability / CDN / Recommendations'. What is the recommended mitigation approach?
+q_2583,Combine evidence from 'LATAM payment_failure incident report (2026-05-27)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2584,Combine evidence from 'APAC cdn_issue incident report (2025-10-21)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2585,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2586,"Based on the knowledge base, summarize the key point from: Architecture note: Data Pipeline / Search / Billing / Playback API."
+q_2587,Combine evidence from 'LATAM cdn_issue incident report (2026-06-23)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2588,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2589,Combine evidence from 'LATAM playback_error incident report (2026-06-02)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2590,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2591,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2592,Combine evidence from 'LATAM cdn_issue incident report (2026-08-15)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2593,"Based on the knowledge base, summarize the key point from: Architecture note: Auth / Recommendations / Observability / Playback API."
+q_2594,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2595,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2596,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2597,Answer using evidence. What is the correct key detail from 'LATAM auth_failure incident report (2026-01-10)' (ignore unrelated notes)?
+q_2598,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2599,Combine evidence from 'EU suspicious_activity incident report (2024-09-15)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2600,"Based on the knowledge base, summarize the key point from: Architecture note: Data Pipeline / Recommendations / CDN / Playback API."
+q_2601,Combine evidence from 'EU payment_failure incident report (2025-09-04)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2602,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2603,Combine evidence from 'EU auth_failure incident report (2024-08-15)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2604,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2605,Combine evidence from 'EU data_pipeline_break incident report (2025-06-30)' and 'Architecture note: Data Pipeline / Recommendations / Search / Observability'. What is the recommended mitigation approach?
+q_2606,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2607,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2608,Combine evidence from 'APAC playback_error incident report (2026-03-02)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2609,Combine evidence from 'APAC suspicious_activity incident report (2025-05-28)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2610,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2611,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2612,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2613,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2614,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2615,Answer using evidence. What is the correct key detail from 'APAC data_pipeline_break incident report (2025-06-09)' (ignore unrelated notes)?
+q_2616,Combine evidence from 'NA playback_error incident report (2026-12-16)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2617,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2618,"Based on the knowledge base, summarize the key point from: APAC data_pipeline_break incident report (2025-10-14)."
+q_2619,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2620,Combine evidence from 'APAC cdn_issue incident report (2025-10-21)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2621,Combine evidence from 'APAC data_pipeline_break incident report (2026-07-03)' and 'Architecture note: Observability / Recommendations / Data Pipeline / Playback API'. What is the recommended mitigation approach?
+q_2622,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2623,Answer using evidence. What is the correct key detail from 'EU data_pipeline_break incident report (2024-01-04)' (ignore unrelated notes)?
+q_2624,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2625,Combine evidence from 'EU cdn_issue incident report (2026-12-13)' and 'Architecture note: CDN / Observability / Playback API / Billing'. What is the recommended mitigation approach?
+q_2626,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2627,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2628,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2629,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2630,Combine evidence from 'NA cdn_issue incident report (2024-01-17)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2631,"Based on the knowledge base, summarize the key point from: NA cdn_issue incident report (2026-06-24)."
+q_2632,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2633,"Based on the knowledge base, summarize the key point from: Architecture note: Playback API / Observability / Data Pipeline / CDN."
+q_2634,Combine evidence from 'EU payment_failure incident report (2026-12-12)' and 'Architecture note: Playback API / Observability / Recommendations / Data Pipeline'. What is the recommended mitigation approach?
+q_2635,Combine evidence from 'EU payment_failure incident report (2026-12-12)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2636,Combine evidence from 'APAC suspicious_activity incident report (2026-03-31)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2637,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2638,Combine evidence from 'NA suspicious_activity incident report (2025-02-24)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2639,Combine evidence from 'NA suspicious_activity incident report (2024-05-19)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2640,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2641,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2642,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2643,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2644,"Based on the knowledge base, summarize the key point from: EU suspicious_activity incident report (2025-07-02)."
+q_2645,Combine evidence from 'NA suspicious_activity incident report (2024-05-19)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2646,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2647,"Based on the knowledge base, summarize the key point from: Architecture note: Auth / Recommendations / CDN / Playback API."
+q_2648,Combine evidence from 'APAC suspicious_activity incident report (2026-04-10)' and 'Architecture note: Auth / Billing / Search / Observability'. What is the recommended mitigation approach?
+q_2649,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2650,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2651,Answer using evidence. What is the correct key detail from 'NA suspicious_activity incident report (2024-05-19)' (ignore unrelated notes)?
+q_2652,Combine evidence from 'EU payment_failure incident report (2025-12-06)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2653,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2654,Combine evidence from 'EU playback_error incident report (2025-05-07)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2655,Combine evidence from 'EU payment_failure incident report (2026-12-12)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2656,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2657,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2658,Combine evidence from 'LATAM payment_failure incident report (2025-08-23)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2659,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2660,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2661,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2662,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2663,Answer using evidence. What is the correct key detail from 'NA playback_error incident report (2026-11-29)' (ignore unrelated notes)?
+q_2664,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2665,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2666,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2667,"Based on the knowledge base, summarize the key point from: APAC payment_failure incident report (2025-02-10)."
+q_2668,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2669,Combine evidence from 'APAC playback_error incident report (2025-11-26)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2670,"Based on the knowledge base, summarize the key point from: Architecture note: CDN / Playback API / Recommendations / Observability."
+q_2671,Combine evidence from 'APAC suspicious_activity incident report (2025-05-28)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2672,Combine evidence from 'APAC cdn_issue incident report (2025-03-27)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2673,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2674,Combine evidence from 'APAC cdn_issue incident report (2025-03-06)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2675,Combine evidence from 'EU playback_error incident report (2026-03-26)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2676,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2677,Combine evidence from 'EU auth_failure incident report (2024-08-15)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2678,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2679,"Based on the knowledge base, summarize the key point from: APAC payment_failure incident report (2026-09-07)."
+q_2680,"Based on the knowledge base, summarize the key point from: Architecture note: Data Pipeline / Auth / Recommendations / CDN."
+q_2681,Answer using evidence. What is the correct key detail from 'EU payment_failure incident report (2025-12-06)' (ignore unrelated notes)?
+q_2682,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2683,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2684,"Based on the knowledge base, summarize the key point from: Architecture note: Recommendations / CDN / Billing / Observability."
+q_2685,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2686,Combine evidence from 'NA latency_spike incident report (2024-07-04)' and 'Architecture note: Billing / Playback API / Observability / Auth'. What is the recommended mitigation approach?
+q_2687,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2688,Combine evidence from 'NA data_pipeline_break incident report (2025-10-06)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2689,"Based on the knowledge base, summarize the key point from: Architecture note: CDN / Auth / Observability / Playback API."
+q_2690,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2691,Combine evidence from 'LATAM cdn_issue incident report (2026-08-15)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2692,Combine evidence from 'APAC data_pipeline_break incident report (2025-10-14)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2693,Combine evidence from 'APAC cdn_issue incident report (2025-03-06)' and 'Architecture note: CDN / Auth / Observability / Playback API'. What is the recommended mitigation approach?
+q_2694,"Based on the knowledge base, summarize the key point from: NA payment_failure incident report (2024-11-27)."
+q_2695,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2696,Answer using evidence. What is the correct key detail from 'EU cdn_issue incident report (2026-06-16)' (ignore unrelated notes)?
+q_2697,Combine evidence from 'NA data_pipeline_break incident report (2024-08-16)' and 'Architecture note: Data Pipeline / Recommendations / CDN / Playback API'. What is the recommended mitigation approach?
+q_2698,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2699,Answer using evidence. What is the correct key detail from 'EU data_pipeline_break incident report (2026-10-12)' (ignore unrelated notes)?
+q_2700,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2701,"Based on the knowledge base, summarize the key point from: Architecture note: Data Pipeline / Search / Billing / Recommendations."
+q_2702,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2703,Answer using evidence. What is the correct key detail from 'APAC payment_failure incident report (2024-06-02)' (ignore unrelated notes)?
+q_2704,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2705,Combine evidence from 'NA cdn_issue incident report (2026-01-04)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2706,Combine evidence from 'APAC cdn_issue incident report (2025-10-21)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2707,Combine evidence from 'APAC suspicious_activity incident report (2026-07-07)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2708,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2709,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2710,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2711,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2712,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2713,"Based on the knowledge base, summarize the key point from: Architecture note: CDN / Observability / Recommendations / Data Pipeline."
+q_2714,"Based on the knowledge base, summarize the key point from: NA cdn_issue incident report (2024-08-10)."
+q_2715,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2716,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2717,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2718,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2719,Combine evidence from 'LATAM playback_error incident report (2026-10-30)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2720,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2721,Combine evidence from 'NA suspicious_activity incident report (2024-05-19)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2722,"Based on the knowledge base, summarize the key point from: EU cdn_issue incident report (2024-05-25)."
+q_2723,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2724,"Based on the knowledge base, summarize the key point from: Architecture note: Observability / CDN / Playback API / Auth."
+q_2725,Combine evidence from 'APAC data_pipeline_break incident report (2024-08-24)' and 'Architecture note: Observability / Search / Playback API / CDN'. What is the recommended mitigation approach?
+q_2726,Combine evidence from 'NA auth_failure incident report (2024-10-08)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2727,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2728,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2729,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2730,"Based on the knowledge base, summarize the key point from: Architecture note: Search / Observability / CDN / Recommendations."
+q_2731,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2732,Answer using evidence. What is the correct key detail from 'APAC payment_failure incident report (2024-08-05)' (ignore unrelated notes)?
+q_2733,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2734,Combine evidence from 'EU payment_failure incident report (2024-04-30)' and 'Architecture note: Recommendations / Playback API / Auth / Search'. What is the recommended mitigation approach?
+q_2735,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2736,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2737,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2738,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2739,Answer using evidence. What is the correct key detail from 'EU latency_spike incident report (2024-03-09)' (ignore unrelated notes)?
+q_2740,Combine evidence from 'EU latency_spike incident report (2024-03-09)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2741,Combine evidence from 'APAC auth_failure incident report (2026-09-07)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2742,Answer using evidence. What is the correct key detail from 'NA latency_spike incident report (2024-07-04)' (ignore unrelated notes)?
+q_2743,Combine evidence from 'LATAM suspicious_activity incident report (2026-02-03)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2744,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2745,Combine evidence from 'APAC suspicious_activity incident report (2026-03-31)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2746,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2747,"Based on the knowledge base, summarize the key point from: Architecture note: CDN / Billing / Playback API / Recommendations."
+q_2748,Combine evidence from 'NA data_pipeline_break incident report (2024-01-08)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2749,Combine evidence from 'EU suspicious_activity incident report (2026-08-09)' and 'Architecture note: Auth / Recommendations / CDN / Playback API'. What is the recommended mitigation approach?
+q_2750,Combine evidence from 'APAC payment_failure incident report (2026-11-05)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2751,Combine evidence from 'LATAM playback_error incident report (2026-06-02)' and 'Architecture note: Billing / Observability / Recommendations / Playback API'. What is the recommended mitigation approach?
+q_2752,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2753,Combine evidence from 'NA cdn_issue incident report (2024-07-03)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2754,Combine evidence from 'APAC latency_spike incident report (2024-03-04)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2755,"Based on the knowledge base, summarize the key point from: NA playback_error incident report (2026-11-29)."
+q_2756,Answer using evidence. What is the correct key detail from 'EU playback_error incident report (2025-05-07)' (ignore unrelated notes)?
+q_2757,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2758,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2759,"Based on the knowledge base, summarize the key point from: NA cdn_issue incident report (2024-08-10)."
+q_2760,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2761,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2762,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2763,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2764,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2765,Combine evidence from 'LATAM payment_failure incident report (2026-05-27)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2766,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2767,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2768,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2769,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2770,"Based on the knowledge base, summarize the key point from: Architecture note: Search / CDN / Playback API / Auth."
+q_2771,Combine evidence from 'NA cdn_issue incident report (2024-01-17)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2772,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2773,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2774,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2775,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2776,"Based on the knowledge base, summarize the key point from: Architecture note: Auth / Billing / Observability / Search."
+q_2777,Combine evidence from 'APAC payment_failure incident report (2026-07-14)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2778,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2779,"Based on the knowledge base, summarize the key point from: Architecture note: Data Pipeline / Recommendations / CDN / Playback API."
+q_2780,Combine evidence from 'LATAM suspicious_activity incident report (2026-12-09)' and 'Architecture note: Observability / Billing / Auth / Search'. What is the recommended mitigation approach?
+q_2781,Answer using evidence. What is the correct key detail from 'NA suspicious_activity incident report (2025-02-24)' (ignore unrelated notes)?
+q_2782,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2783,Combine evidence from 'APAC data_pipeline_break incident report (2026-05-16)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2784,Combine evidence from 'APAC suspicious_activity incident report (2026-04-10)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2785,"Based on the knowledge base, summarize the key point from: Architecture note: Data Pipeline / Auth / Observability / Recommendations."
+q_2786,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2787,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2788,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2789,Combine evidence from 'APAC auth_failure incident report (2025-09-21)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2790,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2791,Combine evidence from 'EU cdn_issue incident report (2025-08-21)' and 'Architecture note: CDN / Billing / Playback API / Recommendations'. What is the recommended mitigation approach?
+q_2792,"Based on the knowledge base, summarize the key point from: NA data_pipeline_break incident report (2026-09-03)."
+q_2793,"Based on the knowledge base, summarize the key point from: Architecture note: Recommendations / Search / Observability / Playback API."
+q_2794,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2795,"Based on the knowledge base, summarize the key point from: Architecture note: Billing / Observability / Recommendations / Playback API."
+q_2796,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2797,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2798,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2799,Combine evidence from 'APAC playback_error incident report (2025-11-26)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2800,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2801,Combine evidence from 'EU auth_failure incident report (2025-02-12)' and 'Architecture note: Data Pipeline / Search / Auth / Observability'. What is the recommended mitigation approach?
+q_2802,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2803,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2804,Combine evidence from 'EU suspicious_activity incident report (2024-02-10)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2805,Answer using evidence. What is the correct key detail from 'LATAM playback_error incident report (2024-08-28)' (ignore unrelated notes)?
+q_2806,Combine evidence from 'LATAM cdn_issue incident report (2026-06-23)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2807,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2808,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2809,Combine evidence from 'EU cdn_issue incident report (2024-05-25)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2810,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2811,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2812,Combine evidence from 'APAC data_pipeline_break incident report (2025-06-09)' and 'Architecture note: Playback API / CDN / Auth / Billing'. What is the recommended mitigation approach?
+q_2813,Answer using evidence. What is the correct key detail from 'APAC suspicious_activity incident report (2026-07-07)' (ignore unrelated notes)?
+q_2814,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2815,Answer using evidence. What is the correct key detail from 'EU auth_failure incident report (2025-02-12)' (ignore unrelated notes)?
+q_2816,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2817,Combine evidence from 'NA latency_spike incident report (2024-03-23)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2818,"Based on the knowledge base, summarize the key point from: APAC playback_error incident report (2026-03-02)."
+q_2819,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2820,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2821,Combine evidence from 'NA auth_failure incident report (2024-10-08)' and 'Architecture note: Search / Billing / Recommendations / Observability'. What is the recommended mitigation approach?
+q_2822,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2823,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2824,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2825,Combine evidence from 'APAC suspicious_activity incident report (2026-07-07)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2826,Combine evidence from 'APAC auth_failure incident report (2025-01-20)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2827,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2828,"Based on the knowledge base, summarize the key point from: Architecture note: Observability / Billing / Recommendations / Playback API."
+q_2829,"Based on the knowledge base, summarize the key point from: Architecture note: Playback API / Observability / Recommendations / Data Pipeline."
+q_2830,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2831,Answer using evidence. What is the correct key detail from 'EU suspicious_activity incident report (2024-02-10)' (ignore unrelated notes)?
+q_2832,"Based on the knowledge base, summarize the key point from: Architecture note: Playback API / Observability / CDN / Billing."
+q_2833,Combine evidence from 'LATAM cdn_issue incident report (2025-08-06)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2834,"Based on the knowledge base, summarize the key point from: APAC suspicious_activity incident report (2026-04-10)."
+q_2835,Answer using evidence. What is the correct key detail from 'NA latency_spike incident report (2024-03-23)' (ignore unrelated notes)?
+q_2836,Combine evidence from 'NA latency_spike incident report (2025-02-11)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2837,"Based on the knowledge base, summarize the key point from: Architecture note: Observability / Billing / Data Pipeline / Playback API."
+q_2838,Combine evidence from 'LATAM auth_failure incident report (2026-01-10)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2839,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2840,Combine evidence from 'EU auth_failure incident report (2025-07-25)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2841,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2842,Answer using evidence. What is the correct key detail from 'APAC suspicious_activity incident report (2024-07-31)' (ignore unrelated notes)?
+q_2843,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2844,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2845,"Based on the knowledge base, summarize the key point from: Architecture note: Observability / CDN / Data Pipeline / Billing."
+q_2846,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2847,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2848,Combine evidence from 'LATAM playback_error incident report (2026-10-30)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2849,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2850,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2851,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2852,"Based on the knowledge base, summarize the key point from: Architecture note: Billing / Search / Playback API / Recommendations."
+q_2853,"Based on the knowledge base, summarize the key point from: Architecture note: Playback API / Observability / Search / Recommendations."
+q_2854,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2855,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2856,"Based on the knowledge base, summarize the key point from: NA data_pipeline_break incident report (2024-01-08)."
+q_2857,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2858,Combine evidence from 'APAC auth_failure incident report (2025-01-20)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2859,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2860,"Based on the knowledge base, summarize the key point from: Architecture note: Billing / Recommendations / Auth / Search."
+q_2861,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2862,Combine evidence from 'EU suspicious_activity incident report (2024-09-15)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2863,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2864,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2865,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2866,"Based on the knowledge base, summarize the key point from: Architecture note: Data Pipeline / Search / Billing / Recommendations."
+q_2867,"Based on the knowledge base, summarize the key point from: Architecture note: Data Pipeline / Search / Auth / Billing."
+q_2868,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2869,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2870,Answer using evidence. What is the correct key detail from 'EU cdn_issue incident report (2024-05-25)' (ignore unrelated notes)?
+q_2871,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2872,Combine evidence from 'NA cdn_issue incident report (2024-08-10)' and 'Architecture note: CDN / Recommendations / Billing / Data Pipeline'. What is the recommended mitigation approach?
+q_2873,Combine evidence from 'NA latency_spike incident report (2026-04-28)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2874,"Based on the knowledge base, summarize the key point from: EU suspicious_activity incident report (2024-10-17)."
+q_2875,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2876,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2877,Combine evidence from 'LATAM data_pipeline_break incident report (2026-12-25)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2878,Combine evidence from 'APAC suspicious_activity incident report (2026-07-07)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2879,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2880,"Based on the knowledge base, summarize the key point from: Architecture note: Search / Observability / Data Pipeline / CDN."
+q_2881,"Based on the knowledge base, summarize the key point from: LATAM cdn_issue incident report (2026-08-15)."
+q_2882,Combine evidence from 'EU latency_spike incident report (2024-03-09)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2883,"Based on the knowledge base, summarize the key point from: LATAM playback_error incident report (2026-03-01)."
+q_2884,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2885,Combine evidence from 'APAC data_pipeline_break incident report (2024-08-24)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2886,Answer using evidence. What is the correct key detail from 'APAC playback_error incident report (2026-03-02)' (ignore unrelated notes)?
+q_2887,Combine evidence from 'LATAM cdn_issue incident report (2024-07-06)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2888,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2889,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2890,Combine evidence from 'EU latency_spike incident report (2024-03-09)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2891,Combine evidence from 'EU suspicious_activity incident report (2024-02-10)' and 'Architecture note: Search / Recommendations / Playback API / Auth'. What is the recommended mitigation approach?
+q_2892,"Based on the knowledge base, summarize the key point from: Architecture note: Auth / CDN / Playback API / Recommendations."
+q_2893,"Based on the knowledge base, summarize the key point from: Architecture note: Playback API / Observability / Search / Billing."
+q_2894,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2895,"Based on the knowledge base, summarize the key point from: Architecture note: Billing / Search / Auth / CDN."
+q_2896,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2897,Answer using evidence. What is the correct key detail from 'LATAM suspicious_activity incident report (2026-02-03)' (ignore unrelated notes)?
+q_2898,Combine evidence from 'LATAM data_pipeline_break incident report (2026-12-25)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2899,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2900,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2901,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2902,Combine evidence from 'APAC data_pipeline_break incident report (2026-07-03)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2903,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2904,Combine evidence from 'EU payment_failure incident report (2025-09-04)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2905,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2906,"Based on the knowledge base, summarize the key point from: Architecture note: Billing / Auth / Recommendations / Search."
+q_2907,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2908,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2909,Answer using evidence. What is the correct key detail from 'NA latency_spike incident report (2025-02-11)' (ignore unrelated notes)?
+q_2910,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2911,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2912,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2913,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2914,Answer using evidence. What is the correct key detail from 'NA cdn_issue incident report (2024-08-10)' (ignore unrelated notes)?
+q_2915,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2916,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2917,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2918,Combine evidence from 'LATAM suspicious_activity incident report (2026-12-09)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2919,Combine evidence from 'APAC payment_failure incident report (2026-11-05)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2920,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2921,"Based on the knowledge base, summarize the key point from: Architecture note: Recommendations / Billing / Auth / Data Pipeline."
+q_2922,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2923,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2924,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2925,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2926,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2927,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2928,"Based on the knowledge base, summarize the key point from: Architecture note: Observability / Search / Billing / CDN."
+q_2929,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2930,"Based on the knowledge base, summarize the key point from: APAC data_pipeline_break incident report (2026-05-16)."
+q_2931,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2932,"Based on the knowledge base, summarize the key point from: Architecture note: Playback API / CDN / Search / Observability."
+q_2933,"Based on the knowledge base, summarize the key point from: Architecture note: Search / CDN / Playback API / Billing."
+q_2934,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2935,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2936,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2937,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2938,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2939,Combine evidence from 'EU suspicious_activity incident report (2026-08-09)' and 'Architecture note: Data Pipeline / Search / Recommendations / CDN'. What is the recommended mitigation approach?
+q_2940,Answer using evidence. What is the correct key detail from 'EU cdn_issue incident report (2025-07-13)' (ignore unrelated notes)?
+q_2941,"Based on the knowledge base, summarize the key point from: LATAM playback_error incident report (2026-05-29)."
+q_2942,"Based on the knowledge base, summarize the key point from: LATAM cdn_issue incident report (2026-10-14)."
+q_2943,Combine evidence from 'EU data_pipeline_break incident report (2026-10-12)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2944,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2945,Answer using evidence. What is the correct key detail from 'NA cdn_issue incident report (2024-01-17)' (ignore unrelated notes)?
+q_2946,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2947,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2948,Combine evidence from 'APAC suspicious_activity incident report (2026-03-31)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2949,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2950,Answer using evidence. What is the correct key detail from 'EU data_pipeline_break incident report (2025-06-30)' (ignore unrelated notes)?
+q_2951,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2952,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2953,Combine evidence from 'NA suspicious_activity incident report (2025-02-24)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2954,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2955,Combine evidence from 'LATAM suspicious_activity incident report (2025-03-10)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2956,Combine evidence from 'NA data_pipeline_break incident report (2026-06-07)' and 'Architecture note: Playback API / CDN / Recommendations / Data Pipeline'. What is the recommended mitigation approach?
+q_2957,"Based on the knowledge base, summarize the key point from: Architecture note: Auth / Recommendations / Observability / Playback API."
+q_2958,Answer using evidence. What is the correct key detail from 'EU latency_spike incident report (2025-05-11)' (ignore unrelated notes)?
+q_2959,"Based on the knowledge base, summarize the key point from: APAC suspicious_activity incident report (2024-07-31)."
+q_2960,Answer using evidence. What is the correct key detail from 'LATAM payment_failure incident report (2026-05-27)' (ignore unrelated notes)?
+q_2961,Combine evidence from 'EU auth_failure incident report (2025-02-12)' and 'Deployment Log: operational notes'. What is the recommended mitigation approach?
+q_2962,Combine evidence from 'NA data_pipeline_break incident report (2024-01-08)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2963,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2964,Combine evidence from 'APAC payment_failure incident report (2026-09-07)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2965,"Based on the knowledge base, summarize the key point from: NA payment_failure incident report (2024-11-27)."
+q_2966,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2967,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2968,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2969,Combine evidence from 'EU auth_failure incident report (2026-07-20)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2970,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2971,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2972,"Based on the knowledge base, summarize the key point from: Architecture note: Recommendations / Search / Data Pipeline / Playback API."
+q_2973,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2974,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2975,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2976,"Based on the knowledge base, summarize the key point from: Architecture note: CDN / Auth / Observability / Playback API."
+q_2977,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2978,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2979,"According to the SLA policy, what is the acknowledge and mitigation target for Severity 4 incidents?"
+q_2980,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2981,Combine evidence from 'EU auth_failure incident report (2025-02-12)' and 'Architecture note: Recommendations / Playback API / Auth / Search'. What is the recommended mitigation approach?
+q_2982,"Based on the knowledge base, summarize the key point from: Cdn Config Note: operational notes."
+q_2983,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2984,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2985,Combine evidence from 'APAC auth_failure incident report (2025-10-31)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2986,"Based on the knowledge base, summarize the key point from: Deployment Log: operational notes."
+q_2987,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2988,"Based on the knowledge base, summarize the key point from: Architecture note: Auth / Recommendations / Observability / Playback API."
+q_2989,"Based on the knowledge base, summarize the key point from: Architecture note: Observability / Data Pipeline / Playback API / Recommendations."
+q_2990,Answer using evidence. What is the correct key detail from 'Security advisory: credential stuffing patterns' (ignore unrelated notes)?
+q_2991,Combine evidence from 'LATAM auth_failure incident report (2025-05-12)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2992,"Based on the knowledge base, summarize the key point from: Security advisory: credential stuffing patterns."
+q_2993,Answer using evidence. What is the correct key detail from 'EU data_pipeline_break incident report (2024-01-04)' (ignore unrelated notes)?
+q_2994,Combine evidence from 'APAC cdn_issue incident report (2025-03-27)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2995,Combine evidence from 'LATAM data_pipeline_break incident report (2026-12-25)' and 'Security advisory: credential stuffing patterns'. What is the recommended mitigation approach?
+q_2996,Combine evidence from 'EU payment_failure incident report (2025-10-15)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2997,Combine evidence from 'NA cdn_issue incident report (2024-08-10)' and 'Cdn Config Note: operational notes'. What is the recommended mitigation approach?
+q_2998,Combine evidence from 'NA latency_spike incident report (2024-03-23)' and 'Architecture note: CDN / Playback API / Billing / Recommendations'. What is the recommended mitigation approach?
+q_2999,"Based on the knowledge base, summarize the key point from: NA suspicious_activity incident report (2026-11-26)."
+q_3000,"Based on the knowledge base, summarize the key point from: Architecture note: CDN / Data Pipeline / Billing / Auth."
